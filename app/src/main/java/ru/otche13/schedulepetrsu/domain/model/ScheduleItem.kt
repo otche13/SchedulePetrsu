@@ -1,4 +1,4 @@
-package ru.otche13.schedulepetrsu.model
+package ru.otche13.schedulepetrsu.domain.model
 
 data class ScheduleItem(
 

@@ -1,4 +1,4 @@
-package ru.otche13.schedulepetrsu.ui
+package ru.otche13.schedulepetrsu.ui.main_screen
 
 import androidx.compose.foundation.layout.Column
 import androidx.compose.foundation.layout.fillMaxWidth
@@ -8,7 +8,7 @@ import androidx.compose.material.Text
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.unit.dp
-import ru.otche13.schedulepetrsu.model.ScheduleItem
+import ru.otche13.schedulepetrsu.domain.model.ScheduleItem
 
 
 @Composable

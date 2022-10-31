@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "408967923328",
+    "project_id": "schedulepetrsu-9abde",
+    "storage_bucket": "schedulepetrsu-9abde.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:408967923328:android:a1b4ed71260b8d9e194865",
+        "android_client_info": {
+          "package_name": "ru.otche13.schedulepetrsu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "408967923328-b4aisonl6eb7g1gjicorgvaa6s8agf15.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDM2NvRFpwWs72Ej2qYCukRhS0SmYFK23M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "408967923328-b4aisonl6eb7g1gjicorgvaa6s8agf15.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
